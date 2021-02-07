@@ -8,7 +8,7 @@ const int buttonPin03 = 23;
 const int buttonPin04 = 25;
 const int buttonPin05 = 26;
 const int buttonPin06 = 13;
-const int buttonPin07 = 21;
+const int buttonPin07 = 12;
 const int buttonPin08 = 19;
 
 //Set the old button state to be LOW/false; which means not pressed
