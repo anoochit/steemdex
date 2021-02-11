@@ -18,5 +18,7 @@ Tutorial
   * [How to use SteemDex with OBS](https://www.youtube.com/watch?v=fgUzpukB9Fw)
 
 
+See more documentation at [wiki](https://github.com/anoochit/steemdex/wiki)
+
 
 <img src="https://raw.githubusercontent.com/anoochit/steemdex/main/images/license_badge.svg">
